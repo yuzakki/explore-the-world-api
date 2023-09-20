@@ -5,7 +5,6 @@
 I'm excited to share with you my latest project, website "Explore the world" As a front-end web developer, I'm passionate
 about creating visually appealing and user-friendly websites, and this "Explore the world" is one of my best projects.
 
-
 ## Screenshots
 
 ![Screenshot](/public/design/desktop-dark.jpg)
@@ -20,7 +19,7 @@ Start discovering today!
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yuzakki/explore-the-world-api.git 
+git clone https://github.com/yuzakki/explore-the-world-api.git
 ```
 
 Navigate to the project directory:
@@ -38,10 +37,12 @@ npm install
 ## Usage
 
 Start the development server:
-`npm run dev`
 
+```bash
+npm run dev
+```
 
-## Feel free to reach me out if you have any questions or if you'd like to collaborate on your next web project. 
+## Feel free to reach me out if you have any questions or if you'd like to collaborate on your next web project.
 
 Connect with Me:
 
@@ -52,4 +53,5 @@ LinkedIn : https://www.linkedin.com/in/hassan-frontdev
 Telegram : https://t.me/hassandevv
 
 Best regards,
+
 ## HASSAN
