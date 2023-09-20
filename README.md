@@ -46,8 +46,7 @@ npm run dev
 
 Connect with Me:
 
-Portfolio : [here](https://haassaaaannnn.netlify.app/)
-
+Portfolio : [here](https://haassaaaannnn.netlify.app/),
 LinkedIn : [here](https://www.linkedin.com/in/hassan-frontdev)
 
 Telegram : [here](https://t.me/hassandevv)
