@@ -25,8 +25,6 @@ Portfolio : https://haassaaaannnn.netlify.app/
 
 LinkedIn : https://www.linkedin.com/in/hassan-frontdev
 
-GitHub : https://github.com/yuzakki
-
 Telegram : https://t.me/hassandevv
 
 Best regards,
