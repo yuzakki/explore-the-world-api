@@ -42,11 +42,12 @@ Start the development server:
 npm run dev
 ```
 
-### Feel free to reach me out if you have any questions or if you'd like to collaborate on your next web project.
+#### Feel free to reach me out if you have any questions or if you'd like to collaborate on your next web project.
 
 Connect with Me:
 
-Portfolio : [here](https://haassaaaannnn.netlify.app/),
+Portfolio : [here](https://haassaaaannnn.netlify.app/)
+
 LinkedIn : [here](https://www.linkedin.com/in/hassan-frontdev)
 
 Telegram : [here](https://t.me/hassandevv)
