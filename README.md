@@ -1,5 +1,4 @@
-
-World Explorer lets you discover, search and filter countries by region,
+### World Explorer lets you discover, search and filter countries by region,
 
 
 World Explorer lets you effortlessly discover, search and filter countries by region,
