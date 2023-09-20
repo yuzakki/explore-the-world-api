@@ -46,14 +46,12 @@ npm run dev
 
 Connect with Me:
 
-Portfolio : https://haassaaaannnn.netlify.app/
+Portfolio : [here](https://haassaaaannnn.netlify.app/)
 
-LinkedIn : https://www.linkedin.com/in/hassan-frontdev
+LinkedIn : [here](https://www.linkedin.com/in/hassan-frontdev)
 
-Telegram : https://t.me/hassandevv
+Telegram : [here](https://t.me/hassandevv)
 
 Best regards,
 
 ### HASSAN
-
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
