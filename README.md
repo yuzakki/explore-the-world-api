@@ -13,7 +13,7 @@ about creating visually appealing and user-friendly websites, and this "Explore 
 ## Clone the repository
 
 ```bash
-git clone [https://github.com/yuzakki/explore-the-world-api.git]
+git clone https://github.com/yuzakki/explore-the-world-api.git
 ```
 
 Navigate to the project directory:
