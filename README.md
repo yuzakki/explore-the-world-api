@@ -44,9 +44,9 @@ npm run dev
 
 Feel free to reach me out if you have any questions.
 
-- Portfolio: [here](https://haassaaaannnn.netlify.app/)
-- LinkedIn: [here](https://www.linkedin.com/in/hassan-frontdev/)
-- Telegram: [here](https://t.me/hassandevv/)
+Portfolio : [here](https://haassaaaannnn.netlify.app/)  
+LinkedIn : [here](https://www.linkedin.com/in/hassan-frontdev)  
+Telegram : [here](https://t.me/hassandevv)  
 
 Best regards,
 
