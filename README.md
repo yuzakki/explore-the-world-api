@@ -22,8 +22,11 @@ Feel free to reach me out if you have any questions or if you'd like to collabor
 Connect with Me:
 
 Portfolio : https://haassaaaannnn.netlify.app/
+
 LinkedIn : https://www.linkedin.com/in/hassan-frontdev
+
 GitHub : https://github.com/yuzakki
+
 Telegram : https://t.me/hassandevv
 
 Best regards,
