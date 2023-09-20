@@ -7,8 +7,8 @@ about creating visually appealing and user-friendly websites, and this "Explore 
 
 ![Screenshot](/public/design/desktop-dark.jpg)
 ![Screenshot](/public/design/desktop-light.jpg)
-![Screenshot](/public/design/details-light.jpg)
 ![Screenshot](/public/design/details-dark.jpg)
+![Screenshot](/public/design/details-light.jpg)
 
 ## Clone the repository
 
