@@ -48,6 +48,4 @@ Portfolio : [here](https://haassaaaannnn.netlify.app/)
 LinkedIn : [here](https://www.linkedin.com/in/hassan-frontdev)  
 Telegram : [here](https://t.me/hassandevv)  
 
-Best regards,
-
 ### HASSAN
