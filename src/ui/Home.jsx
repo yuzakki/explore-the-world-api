@@ -55,7 +55,7 @@ function Country({ country }) {
         />
       </Link>
 
-      <div className="w-full p-6 rounded-md pb-14 ">
+      <div className="w-full p-6 pb-10 rounded-md ">
         <h1 className="pb-2 text-very-dark-blue-text dark:text-white text-[19px] font-800">
           <Link to={`country/${COUNTRY_NAME}`}>{COUNTRY_NAME}</Link>
         </h1>

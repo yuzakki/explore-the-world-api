@@ -1,9 +1,10 @@
+import axios from "axios";
 import { createContext, useEffect, useState } from "react";
 import { useParams } from "react-router";
 
 export const AppContext = createContext();
 
-const API_BASE = "https:restcountries.com/v3.1/all";
+const API_BASE = "https://restcountries.com/v3.1/all";
 
 function AppProvider({ children }) {
   // === FETCH DATA ===
@@ -17,32 +18,22 @@ function AppProvider({ children }) {
     }, 300);
   }, []);
 
-
-
   // FETCHING COUNTRIES DATA
   useEffect(() => {
     const fetchData = async () => {
       try {
-        // setIsLoading(true);
         const response = await fetch(API_BASE);
-
         if (!response.ok) {
           throw new Error("Check Your Network Connection");
         }
-
         const data = await response.json();
         setData(data);
       } catch (error) {
         console.error("Error fetching data:", error);
-      } finally {
-        // setIsLoading(false);
       }
     };
-
     fetchData();
   }, []);
-
-
 
   // === FILTER COUNTRIES BY THE SEARCHBAR ===
   const [filteredCountries, setFilteredCountries] = useState([]);
@@ -60,8 +51,6 @@ function AppProvider({ children }) {
     setFilteredCountries(filteredCountries);
   };
 
-
-
   // === FILTER COUNTRIES BY THE REGION ===
   const [selectedRegion, setSelectedRegion] = useState(null);
 
@@ -71,16 +60,12 @@ function AppProvider({ children }) {
       : setSelectedRegion(selectedOption);
   };
 
-
-
   // === DISPLAYED COUNTRIES ===
   const displayedCountries = (
     searchQuery.length > 0 ? filteredCountries : data
   ).filter((country) =>
     selectedRegion ? country.region === selectedRegion.value : filteredCountries
   );
-
-
 
   // ===== RETRIEVE AND SEND DATA BASED ON THE SEARCHED COUNTRY =====
   const { name } = useParams();
