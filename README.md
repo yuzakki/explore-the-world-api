@@ -7,7 +7,7 @@
 ![Screenshot](/public/design/details-dark.jpg)
 ![Screenshot](/public/design/details-light.jpg)
 
-## Clone the repository
+## Clone the repository   
 
 ```bash
 git clone https://github.com/yuzakki/explore-the-world-api.git
